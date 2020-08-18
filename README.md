@@ -7,3 +7,6 @@
 - 📫 EmailAddress: somewheve@gmail.com
 
 
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somewheve&layout=compact&hide=html" alt="somewheve" />
+</p>
