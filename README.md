@@ -10,3 +10,6 @@
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somewheve&layout=compact&hide=html" alt="somewheve" />
 </p>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=somewheve)](https://github.com/somewheve/github-readme-stats)
