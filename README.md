@@ -3,7 +3,7 @@
 
 - 🔭 [ctpbee](https://github.com/ctpbee/ctpbee)
 - 🌱 ProgrammingLanguage: [rust, python]
-- 💬 ResearchDirection: QuantitativeTrading/TradingSystem/OrderFlow/FFI
+- 💬 ResearchDirection: QuantitativeTrading, TradingSystem, OrderFlow, RUST FFI
 
 
 > If you have any question, please send [EMAIL](somewheve@gmail.com) to me.  ^_^ 
