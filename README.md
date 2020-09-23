@@ -6,4 +6,7 @@
 - 💬 ResearchDirection: QuantitativeTrading, TradingSystem, OrderFlow, RUST FFI
 
 
-> If you have any question, please send [EMAIL](somewheve@gmail.com) to me.  ^_^ 
+If you have any question, please send [EMAIL](somewheve@gmail.com) to me.  ^_^ 
+
+
+> High frequency trading architecture is being developed ~ 
