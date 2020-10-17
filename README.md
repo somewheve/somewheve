@@ -1,8 +1,5 @@
 ## It's hard to watch 
 
-
-- 🔭 [ctpbee](https://github.com/ctpbee/ctpbee)
-- 🌱 ProgrammingLanguage: [rust, python]
 - 💬 ResearchDirection: QuantitativeTrading, TradingSystem, OrderFlow, RUST FFI
 
 
