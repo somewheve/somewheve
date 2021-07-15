@@ -1,6 +1,5 @@
 ## It's hard to watch 
 
-A big  loser
 
 - 💬 ResearchDirection: QuantitativeTrading, TradingSystem, OrderFlow, RUST FFI
 
