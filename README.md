@@ -1,7 +1,7 @@
 ## It's hard to watch 
 
 
-- 💬 ResearchDirection: QuantitativeTrading, TradingSystem, OrderFlow, RUST FFI
+- 💬 ResearchDirection:HFT and RUST
 
 
 If you have any question, please send [EMAIL](somewheve@gmail.com) to me.  ^_^ 
